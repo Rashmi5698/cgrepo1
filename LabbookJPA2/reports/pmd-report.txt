@@ -1,0 +1,78 @@
+src/main/java/com/cg/Author.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/Author.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/Author.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Author.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Author.java:15:	DataClass:	DataClass: The class 'Author' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/cg/Author.java:15:	DataClass:	DataClass: The class 'Author' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/cg/Author.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/Author.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/Author.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Author.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authorId' is not assigned and could be declared final
+src/main/java/com/cg/Author.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authorId' is not assigned and could be declared final
+src/main/java/com/cg/Author.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authorname' is not assigned and could be declared final
+src/main/java/com/cg/Author.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'authorname' is not assigned and could be declared final
+src/main/java/com/cg/Author.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/cg/Author.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/Book.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/Book.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Book.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Book.java:12:	DataClass:	DataClass: The class 'Book' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/cg/Book.java:12:	DataClass:	DataClass: The class 'Book' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/com/cg/Book.java:12:	ShortClassName:	ShortClassName: Avoid short class names like Book
+src/main/java/com/cg/Book.java:12:	ShortClassName:	ShortClassName: Avoid short class names like Book
+src/main/java/com/cg/Book.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/Book.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ibsn' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ibsn' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'title' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'title' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/Book.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/Main.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Main.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/Main.java:9:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/main/java/com/cg/Main.java:9:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/main/java/com/cg/Main.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/Main.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/Main.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/Main.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/Main.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/Main.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/Main.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emfact' could be declared final
+src/main/java/com/cg/Main.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emfact' could be declared final
+src/main/java/com/cg/Main.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'em' could be declared final
+src/main/java/com/cg/Main.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'em' could be declared final
+src/main/java/com/cg/Main.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like em
+src/main/java/com/cg/Main.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like em
+src/main/java/com/cg/Main.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/com/cg/Main.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/com/cg/Main.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book1' could be declared final
+src/main/java/com/cg/Main.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book1' could be declared final
+src/main/java/com/cg/Main.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/main/java/com/cg/Main.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/main/java/com/cg/Main.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/main/java/com/cg/Main.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/main/java/com/cg/Main.java:26:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/cg/Main.java:26:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/cg/Main.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'author' could be declared final
+src/main/java/com/cg/Main.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'author' could be declared final
+src/main/java/com/cg/Main.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/Main.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/Main.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/Main.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/Main.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/Main.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/Main.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/Main.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/Main.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/Main.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
