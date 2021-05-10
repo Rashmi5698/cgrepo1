@@ -1,5 +1,5 @@
 package unione2many;
-
+//hello
 import javax.persistence.Entity;
 import javax.persistence.Table;
 import javax.persistence.Id;
