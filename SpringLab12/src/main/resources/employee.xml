@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+
+<bean id="emp" class="com.cg.SpringLab12.Employee" autowire="constructor"/>
+
+	<property name="employeeId" value="23"/>
+	<property name="employeeName" value="Reshmi"/>
+	<property name="salary" value="212345"/>
+	<property name="age" value="23"/>
+	<property name="businessUnit" value="Analyst"/>
+	
+   <bean id="sbu" class="com.cg.SpringLab12.SBU">
+   <property name="service"
+	<property name="sbuild" value="12"/>
+	<property name="sbuName" value="Name"/>
+	<property name="sbuHead" value="SbuBuild"/>	
+	</bean>
+</bean>
+	
+	
+	
+	
+	
+
+</beans>
